@@ -8,6 +8,7 @@ To install this library, run:
 
 ```bash
 $ npm install angular-particle --save
+$ npm install CristianRomeroRamos/angular-particle#master
 ```
 
 ## How to use
